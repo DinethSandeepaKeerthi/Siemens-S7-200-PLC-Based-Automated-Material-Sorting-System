@@ -7,7 +7,7 @@
 
 > A conveyor-based automated material sorting system that detects and separates **metal** and **non-metal** objects using proximity sensors, a pneumatic cylinder, and a **Siemens S7-200 CPU 224** PLC programmed in Ladder Logic using STEP 7 Micro/WIN.
 
-📹 **[Watch Demo Video on LinkedIn](#)** ← 
+📹 **[[Watch Demo Video on LinkedIn](https://www.linkedin.com/posts/dineth-sandeepa-keerthi-b47879213_plc-siemenss7200-industrialautomation-activity-7432379876172709888-fYj5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYOSicBFv0ozNG0GC2kwkhN0hb40oej748)](#)** ← 
 
 ---
 
