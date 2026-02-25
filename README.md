@@ -340,7 +340,7 @@ This technique made live demonstrations **fast, clean, and repeatable** — show
 
 ---
 
-📹 **Full demo video:** [View on LinkedIn](#) ← 
+📹 **Full demo video:** [[View on LinkedIn](https://www.linkedin.com/posts/dineth-sandeepa-keerthi-b47879213_plc-siemenss7200-industrialautomation-activity-7432379876172709888-fYj5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYOSicBFv0ozNG0GC2kwkhN0hb40oej748)](#) ← 
 
 ---
 
